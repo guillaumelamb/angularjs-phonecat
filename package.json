@@ -7,14 +7,14 @@
   "license": "MIT",
   "dependencies": {
     "angular": "1.7.x",
-    "angular-animate": "1.7.x",
-    "angular-resource": "1.7.x",
-    "angular-route": "1.7.x",
+    "angular-animate": "1.8.2",
+    "angular-resource": "1.8.2",
+    "angular-route": "1.8.2",
     "bootstrap": "3.3.x",
     "jquery": "3.3.x"
   },
   "devDependencies": {
-    "angular-mocks": "1.7.x",
+    "angular-mocks": "1.8.2",
     "cpx": "^1.5.0",
     "http-server": "^0.11.1",
     "jasmine-core": "^3.3.0",
